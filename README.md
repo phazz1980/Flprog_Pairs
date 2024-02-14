@@ -8,8 +8,8 @@
 ## Блок Main
 ![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/main.png?raw=true)
 
-- Главный блок, использовать обязательно!<br>
 > [!WARNING]
+> Главный блок, использовать обязательно!<br>
 > использовать в проекте один раз<br>
 
 ### Параметры:<br>
