@@ -9,7 +9,7 @@
 ![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/main.png?raw=true)
 
 - Главный блок, использовать обязательно!<br>
-> [!WARNING]
+ [!WARNING]
 - использовать в проекте один раз<br>
 
 ### Параметры:<br>
