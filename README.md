@@ -21,7 +21,7 @@
 	
 ## Блок Get <br>
 ![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/get.png?raw=true)
->чтение данных из файла<br>
+- чтение данных из файла<br>
 
 
 ### Входы:<br>
