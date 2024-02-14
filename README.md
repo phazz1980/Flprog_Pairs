@@ -6,7 +6,7 @@
 Также возможно чтение из файла.
 
 ## Блок Main
-![promo](/docs/main.png)
+![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/main.png?raw=true)
 
 - Главный блок, использовать обязательно!<br>
 - использовать в проекте один раз<br>
@@ -30,7 +30,7 @@
 	data - данные полученные по ключу на входе
 	
 ## Блок Set <br>
-![promo](/docs/set.png)
+![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/set.png?raw=true)
 - запись данных в файл
 
 ### Входы:<br>
