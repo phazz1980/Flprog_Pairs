@@ -9,15 +9,15 @@
 ![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/main.png?raw=true)
 
 - Главный блок, использовать обязательно!<br>
->[!ВНИМАНИЕ]
+> [!WARNING]
 - использовать в проекте один раз<br>
 
 ### Параметры:<br>
 >timeout - время через которое данные сохраняются автоматически после последнего изменения данных
 
 ### Входы:<br>
- 	delete - очистка файла
- 	update - принудительное сохранение в файл до завершения таймаута.
+>delete - очистка файла
+>update - принудительное сохранение в файл до завершения таймаута.
 	
 ## Блок Get <br>
 ![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/get.png?raw=true)
