@@ -19,7 +19,7 @@
  	update - принудительное сохранение в файл до завершения таймаута.
 	
 ## Блок Get <br>
-![promo](/docs/get.png)
+![promo](https://github.com/phazz1980/Flprog_Pairs/blob/main/docs/get.png?raw=true)
 - чтение данных из файла<br>
 
 
